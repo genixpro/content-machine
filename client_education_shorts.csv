@@ -1,0 +1,81 @@
+Number,Title,Question,Answer
+1,Safeguard User Privacy in AI Products with In-house Datasets,How to protect users privacy while building AI?,In-house datasets
+2,Include Software Integration in Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,Software and systems for integration
+3,Build Ethical AI by Protecting Customers' Privacy,How can I build AI in an ethical way?,Protect customers privacy
+4,Discover Free Startup Data on Collaborative Platforms for AI,Where can I find free data for my startup?,Collaborative Platforms
+5,Mitigate AI Risks with Pilot Projects,How can I mitigate risks in my AI project?,Pilot projects
+6,Ensure AI Quality with Contractor Maintenance Contract,How can I improve quality when working with third party engineers?,Keep a maintenance contract with your contractor
+7,Address Bias and Fairness: Ethical AI Considerations,What are ethical concerns I should heed while building my AI technology?,Bias and Fairness
+8,Secure Privacy with Federated Learning in AI Development,How to protect users privacy while building AI?,Federated learning
+9,Apply the Scientific Method for Effective AI Product Feedback,How should I use feedback to improve my AI product?,Use the scientific method to get concrete answers
+10,Consider Social Impact in Ethical AI Development,What are ethical concerns I should heed while building my AI technology?,Social and Societal Impact
+11,Opt for AI Generalists over Specialists in Startup Hiring,What is a method to identify a top AI candidate for a startup?,"Focus on generalists with AI, not AI specialists"
+12,Assess Candidates Based on Technique in AI Hiring,What is a method to identify a top AI candidate for a startup?,Ask about their technique
+13,Create Valuable IP with Data Scraping and Cleaning in AI,How do I build a dataset that is valuable intellectual property?,Scrape it and clean it
+14,Acquire Valuable IP by Purchasing Data from Small Players,How do I build a dataset that is valuable intellectual property?,Buy it from lots of small players
+15,Optimize AI Product with UX Feedback Popups,How should I use feedback to improve my AI product?,Popup asking for feedback at the end of interactions in your UX
+16,Specify Delivery Channels in AI Chat-Bot RFP for Customer Service,What should be Included in a Customer-Service Chat-Bot RFP,Channel for bot delivery
+17,Design Ethical AI by Assessing Algorithmic Effects,How can I build AI in an ethical way?,Consider the knock on effects of your algorithm
+18,Use Good Experimentation Methodologies in AI Research,What does an experimental development process look like for AI?,How to perform experiments when conducting AI research
+19,Ensure Diversity in High-Quality AI Datasets,What are some considerations when building a high quality AI dataset?,"Diversity of different ethnic, geographic, or racial groups"
+20,Access AI Startup Data from Research Institutions for Free,Where can I find free data for my startup?,Research institutions
+21,Address Edge Cases in AI Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,Handling of edge cases
+22,Provide Example Conversations in AI Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,Example conversations
+23,Avoid AI Project Delays: Limit Highly Experimental Developments,What is a risk that could cause an AI project deadline to get missed?,A highly experimental development that fails
+24,Utilize Cloud Providers for Free AI Startup Data,Where can I find free data for my startup?,Major Cloud Provider Websites
+25,Prioritize Data Quality to Mitigate AI Project Risks,How can I mitigate risks in my AI project?,"Emphasize data quality, even if its boring!"
+26,Leverage AI for Customer Analysis in Small Businesses,How can I use AI at my small business?,Analyze your customers in depth
+27,Ensure Quality Metrics Reporting from Third-Party Engineers,How can I improve quality when working with third party engineers?,Request specific quality metrics like test failures be delivered to you regularly
+28,Consider Environmental Impact in AI Technology Ethics,What are ethical concerns I should heed while building my AI technology?,Environmental Impact
+29,Enhance AI Product with Detailed Feedback Notes,How should I use feedback to improve my AI product?,Provide detailed notes yourself
+30,Cultivate Experimentation Culture for AI Product Feedback,How should I use feedback to improve my AI product?,Foster a culture of experimentation
+31,Prioritize Transparency and Explainability in AI Development,What are ethical concerns I should heed while building my AI technology?,Transparency and Explainability
+32,Accelerate Service Response with AI in Small Businesses,How can I use AI at my small business?,Speed up your service response times
+33,Opt for AI Engineers in Startup Hiring Over AI Scientists,What is a method to identify a top AI candidate for a startup?,Focus on Engineers over Scientists
+34,Prevent AI Project Delays by Securing Data Early,What is a risk that could cause an AI project deadline to get missed?,Issues obtaining sufficient data
+35,Avoid Delays: Check Data Quality Early in AI Projects,What is a risk that could cause an AI project deadline to get missed?,Low quality or inconsistent labelled data discovered late
+36,Check AI Vendors for Data Privacy Policies,What are some red flags to look out for when hiring an AI vendor,No clear data privacy or security policies
+37,Consider Young Talents in AI Startup Hiring,What is a method to identify a top AI candidate for a startup?,Hire the ones who started young
+38,Manage Risks with Diverse Teams in AI Projects,How can I mitigate risks in my AI project?,Use cross-functional multi-background teams
+39,Explore Free Startup Data on Government Websites,Where can I find free data for my startup?,Government Websites
+40,Audit AI Code for Quality when working with Third Parties,How can I improve quality when working with third party engineers?,Get third party quality audits of the code
+41,Build Ethical AI by Protecting Privacy,What are ethical concerns I should heed while building my AI technology?,Privacy and data protection
+42,Avoid Error Amplification to build Great AI Datasets,What are some considerations when building a high quality AI dataset?,Lazy humans + error amplification
+43,Demand Documentation in Scope when building AI,How can I improve quality when working with third party engineers?,Call out documentation as an explicit deliverable
+44,Protect Your AI From Manipulation Using Fine Tuned Models,How to protect your AI from social manipulation?,Transition to fine-tuned models without prompts once dataset is large enough
+45,Demand Great Pre-Sales Support from AI Vendors,What are some red flags to look out for when hiring an AI vendor,Poor pre-sales support and few implementation materials
+46,Beware of Highly Controlled Demos from AI Vendors,What are some red flags to look out for when hiring an AI vendor,Highly controlled demos
+47,Defend AI from Prompt Injection with Adversarial Datasets ,How to protect your AI from social manipulation?,Incorporate data of various prompt injection attacks into your fine tune dataset
+48,How to Include Service Actions in Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,List of customer service actions
+49,"Measure your AI results on customer data, not laboratory datasets",How should I use feedback to improve my AI product?,Measure your results on real world data
+50,Build Valuable Data IP by Enhancing an Existing Dataset,How do I build a dataset that is valuable intellectual property?,Enhance an existing dataset
+51,Cut AI Costs with Quick and Dirty Prototypes,What are some ways to keep costs down while building AI technology?,Go for a quick and dirty result
+52,How to brainstorm AI research possibilities,What does an experimental development process look like for AI?,How to brainstorm AI research possibilities
+53,Specify Methodologies in Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,"Methodologies, systems, or frameworks"
+54,Build Ethical AI by Considering the Consequences if your AI mistakes!,What are ethical concerns I should heed while building my AI technology?,Consequences of Low Accuracy
+55,Define your Brand Voice in Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,"Style, tone, and brand voice"
+56,Protect User Privacy by Minimizing Third Party AI Tools,How to protect users privacy while building AI?,Minimize third party tools
+57,Include Historical Data in Chat-Bot RFPs,What should be Included in a Customer-Service Chat-Bot RFP,Historical contact center data
+58,How to Prioritizing AI Research,What does an experimental development process look like for AI?,How to prioritize research avenues for AI tech
+59,Double your Small Business with Grassroots AI Adoption,How can I use AI at my small business?,Double your teams productivity by giving them freedom to adopt AI tools at the grassroots
+60,Build IP-Valuable AI Datasets through Manual Collection,How do I build a dataset that is valuable intellectual property?,Collect it manually
+61,Protect your AI Product with Expert Red Teaming,How to protect your AI from social manipulation?,Hire people to red team your system
+62,Crafting High-Quality AI Datasets: Consider Invariants,What are some considerations when building a high quality AI dataset?,"Backgrounds, noise, angle, style, etc.."
+63,Build Great AI Datasets by Focusing on Edge-Cases,What are some considerations when building a high quality AI dataset?,Insufficient quantity of edge-case or unusual samples
+64,Prevent AI Catastrophes by Red-Teaming your AI Tech,How can I mitigate risks in my AI project?,Hire people to red-team your AI technology
+65,Get Free Data for your Startup through web-scraping,Where can I find free data for my startup?,Scrape it Yourself
+66,Measure your AI on the Real-World to Prevent Busted Deadlines,What is a risk that could cause an AI project deadline to get missed?,Different results in real world v.s. laboratory
+67,Watch out for Magical Promises from AI Vendors,What are some red flags to look out for when hiring an AI vendor,Overpromising
+68,Improve AI Quality with Flexible and Nimble Project Scopes,How can I improve quality when working with third party engineers?,Don’t try to plan and lock-in scope upfront
+69,Mitigate AI Risks with Rigorous Testing and Validation Protocols,How can I mitigate risks in my AI project?,Implement rigorous testing and validation protocols
+70,Build Valuable AI Datasets by Offering a Human Service,How do I build a dataset that is valuable intellectual property?,Offer a unique service
+71,Prevent Failed AI Projects by Staying Flexible,How can I mitigate risks in my AI project?,Be flexible on the project plan
+72,Beware of AI vendors that aren’t transparent,What are some red flags to look out for when hiring an AI vendor,Lack of transparency about their technology
+73,Improve AI Product Quality with Direct Customer Feedback,How should I use feedback to improve my AI product?,Solicit direct user feedback to get the customers perspective
+74,Use AI to Improve Customer Service at your Small Business,How can I use AI at my small business?,Improve customer service quality
+75,How to select a metric when conducting AI research,What does an experimental development process look like for AI?,How to select a metric when conducting AI research
+76,Improve Quality with Third Party Engineers by Making Automated Tests an Explicit Deliverable,How can I improve quality when working with third party engineers?,Call out automated tests as an explicit deliverable
+77,Use AI to Scale your Small Business Marketing Dramatically,How can I use AI at my small business?,Scale up your marketing to a whole new level
+78,Watch out for Infrastructure Problems Busting your AI Project Deadline,What is a risk that could cause an AI project deadline to get missed?,Deployment and Infrastructure Issues
+79,Live a Happier Life by Automating Tedious Office Tasks with AI at your Small Business,How can I use AI at my small business?,Automate the tedious office tasks
+80,Build Ethical AI by designing for Accountability,What are ethical concerns I should heed while building my AI technology?,Accountability
